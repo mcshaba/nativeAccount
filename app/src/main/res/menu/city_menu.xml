@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_city_aba"
+        android:title="@string/city_aba" />
+    <item
+        android:id="@+id/action_city_abakaliki"
+        android:title="@string/city_abakaliki" />
+
+    <item
+        android:id="@+id/action_city_abeokuta"
+        android:title="@string/city_abeokuta" />
+
+
+    <item
+        android:id="@+id/action_city_abuja"
+        android:title="@string/city_abuja" />
+    <item
+        android:id="@+id/action_city_ado_ekiti"
+        android:title="@string/city_ado_ekiti" />
+
+    <item
+        android:id="@+id/action_city_agbor"
+        android:title="@string/city_agbor" />
+
+    <item
+        android:id="@+id/action_city_akure"
+        android:title="@string/city_akure" />
+    <item
+        android:id="@+id/action_city_alaba"
+        android:title="@string/city_alaba" />
+    <item
+        android:id="@+id/action_city_anthony"
+        android:title="@string/city_anthony" />
+
+    <item
+        android:id="@+id/action_city_asaba"
+        android:title="@string/city_asaba" />
+
+    <item
+        android:id="@+id/action_city_auchi"
+        android:title="@string/city_auchi" />
+    <item
+        android:id="@+id/action_city_awka"
+        android:title="@string/city_awka" />
+
+    <item
+        android:id="@+id/action_city_bauchi"
+        android:title="@string/city_bauchi" />
+
+     <item
+        android:id="@+id/action_city_benin"
+        android:title="@string/city_benin" />
+    <item
+        android:id="@+id/action_city_benin_kebbi"
+        android:title="@string/city_benin_kebbi" />
+
+    <item
+        android:id="@+id/action_city_calabar"
+        android:title="@string/city_calabar" />
+
+    <item
+        android:id="@+id/action_city_coker"
+        android:title="@string/city_coker" />
+    <item
+        android:id="@+id/action_city_damaturu"
+        android:title="@string/city_damaturu" />
+
+    <item
+        android:id="@+id/action_city_dutse"
+        android:title="@string/city_dutse" />
+
+
+    <item
+        android:id="@+id/action_city_enugu"
+        android:title="@string/city_enugu" />
+    <item
+        android:id="@+id/action_city_festac"
+        android:title="@string/city_festac" />
+
+    <item
+        android:id="@+id/action_city_gombe"
+        android:title="@string/city_gombe" />
+
+     <item
+        android:id="@+id/action_city_gusau"
+        android:title="@string/city_gusau" />
+    <item
+        android:id="@+id/action_city_ibadan"
+        android:title="@string/city_ibadan" />
+
+    <item
+        android:id="@+id/action_city_ikeja"
+        android:title="@string/city_ikeja" />
+
+    <item
+        android:id="@+id/action_city_ikoyi"
+        android:title="@string/city_ikoyi" />
+    <item
+        android:id="@+id/action_city_ilorin"
+        android:title="@string/city_ilorin" />
+
+    <item
+        android:id="@+id/action_city_ilupeju"
+        android:title="@string/city_ilupeju" />
+
+
+    <item
+        android:id="@+id/action_city_isolo"
+        android:title="@string/city_isolo" />
+    <item
+        android:id="@+id/action_city_jalingo"
+        android:title="@string/city_jalingo" />
+
+    <item
+        android:id="@+id/action_city_jos"
+        android:title="@string/city_jos" />
+
+    <item
+        android:id="@+id/action_city_kaduna"
+        android:title="@string/city_kaduna" />
+
+    <item
+        android:id="@+id/action_city_kano"
+        android:title="@string/city_kano" />
+
+     <item
+        android:id="@+id/action_city_katsina"
+        android:title="@string/city_katsina" />
+    <item
+        android:id="@+id/action_city_kwale"
+        android:title="@string/city_kwale" />
+
+    <item
+        android:id="@+id/action_city_lafia"
+        android:title="@string/city_lafia" />
+
+
+    <item
+        android:id="@+id/action_city_lagos"
+        android:title="@string/city_lagos" />
+    <item
+        android:id="@+id/action_city_lokoja"
+        android:title="@string/city_lokoja" />
+
+    <item
+        android:id="@+id/action_city_maidugiri"
+        android:title="@string/city_maidugiri" />
+
+
+    <item
+        android:id="@+id/action_city_mararaba"
+        android:title="@string/city_mararaba" />
+    <item
+        android:id="@+id/action_city_markurdi"
+        android:title="@string/city_markurdi" />
+
+    <item
+        android:id="@+id/action_city_minna"
+        android:title="@string/city_minna" />
+
+    <item
+        android:id="@+id/action_city_nnewi"
+        android:title="@string/city_nnewi" />
+    <item
+        android:id="@+id/action_city_nsukka"
+        android:title="@string/city_nsukka" />
+
+    <item
+        android:id="@+id/action_city_ogba"
+        android:title="@string/city_ogba" />
+    <item
+        android:id="@+id/action_city_ojo"
+        android:title="@string/city_ojo" />
+
+    <item
+        android:id="@+id/action_city_onitsha"
+        android:title="@string/city_onitsha" />
+    <item
+        android:id="@+id/action_city_oshodi"
+        android:title="@string/city_oshodi" />
+
+    <item
+        android:id="@+id/action_city_oshogbo"
+        android:title="@string/city_oshogbo" />
+    <item
+        android:id="@+id/action_city_owerri"
+        android:title="@string/city_owerri" />
+
+    <item
+        android:id="@+id/action_city_oyingbo"
+        android:title="@string/city_oyingbo" />
+    <item
+        android:id="@+id/action_city_p_h"
+        android:title="@string/city_p_h" />
+
+    <item
+        android:id="@+id/action_city_sapele"
+        android:title="@string/city_sapele" />
+    <item
+        android:id="@+id/action_city_sokoto"
+        android:title="@string/city_sokoto" />
+
+    <item
+        android:id="@+id/action_city_surulere"
+        android:title="@string/city_surulere" />
+    <item
+        android:id="@+id/action_city_ughelli"
+        android:title="@string/city_ughelli" />
+
+    <item
+        android:id="@+id/action_city_umuahia"
+        android:title="@string/city_umuahia" />
+    <item
+        android:id="@+id/action_city_uyo"
+        android:title="@string/city_uyo" />
+
+    <item
+        android:id="@+id/action_city_vi"
+        android:title="@string/city_vi" />
+    <item
+        android:id="@+id/action_city_warri"
+        android:title="@string/city_warri" />
+
+    <item
+        android:id="@+id/action_city_yaba"
+        android:title="@string/city_yaba" />
+    <item
+        android:id="@+id/action_city_yenagoa"
+        android:title="@string/city_yenagoa" />
+<item
+        android:id="@+id/action_city_yola"
+        android:title="@string/city_yola" />
+
+
+</menu>

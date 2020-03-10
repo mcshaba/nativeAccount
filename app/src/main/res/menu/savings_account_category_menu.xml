@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/action_saving_aspire"
+        android:title="@string/saving_aspire" />
+    <item
+        android:id="@+id/action_saving_diaspora"
+        android:title="@string/saving_diaspora" />
+    <item
+        android:id="@+id/action_saving_diaspora_aspire"
+        android:title="@string/saving_diaspora_aspire" />
+
+    <item
+        android:id="@+id/action_saving_eazysave_classic"
+        android:title="@string/saving_eazysave_classic" />
+    <item
+        android:id="@+id/action_saving_eazysave_plus"
+        android:title="@string/saving_eazysave_plus" />
+
+    <item
+            android:id="@+id/action_saving_eazysave_premium"
+            android:title="@string/saving_eazysave_premium" />
+    <item
+            android:id="@+id/action_saving_salary"
+            android:title="@string/saving_salary" />
+    <item
+            android:id="@+id/action_saving_acct"
+            android:title="@string/saving_acct" />
+
+</menu>

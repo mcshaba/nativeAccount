@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/action_low_risk"
+        android:title="@string/low_risk" />
+    <item
+        android:id="@+id/action_medium_risk"
+        android:title="@string/medium_risk" />
+    <item
+        android:id="@+id/action_high_risk"
+        android:title="@string/high_risk" />
+
+
+</menu>

@@ -1,0 +1,24 @@
+<!-- drawable/polygon.xml -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="173.5dp"
+    android:height="107.5dp"
+    android:viewportWidth="173.5"
+    android:viewportHeight="107.5"
+    >
+
+    <group>
+
+        <clip-path
+            android:pathData="M0 0H173.5V107.5H0V0Z"
+            />
+
+        <path
+            android:pathData="M0 0V107.5H173.5V0"
+            android:fillColor="#C4C4C4"
+            />
+
+    </group>
+
+</vector>

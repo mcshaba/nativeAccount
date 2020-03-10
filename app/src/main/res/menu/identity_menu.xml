@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_id_drivers"
+        android:title="@string/id_drivers" />
+    <item
+        android:id="@+id/action_id_int_passport"
+        android:title="@string/id_int_passport" />
+    <item
+        android:id="@+id/action_id_national"
+        android:title="@string/id_national" />
+    <item
+        android:id="@+id/action_id_others"
+        android:title="@string/id_others" />
+    <item
+        android:id="@+id/action_id_voters"
+        android:title="@string/id_voters" />
+    <item
+        android:id="@+id/action_id_student"
+        android:title="@string/id_student" />
+
+</menu>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_occupation_accountant"
+        android:title="@string/occupation_accountant" />
+    <item
+        android:id="@+id/action_occupation_business_trader"
+        android:title="@string/occupation_business_trader" />
+
+    <item
+        android:id="@+id/action_occupation_administrator"
+        android:title="@string/occupation_administrator" />
+    <item
+        android:id="@+id/action_occupation_architect"
+        android:title="@string/occupation_architect" />
+    <item
+        android:id="@+id/action_occupation_banker"
+        android:title="@string/occupation_banker" />
+
+    <item
+        android:id="@+id/action_occupation_beautician"
+        android:title="@string/occupation_beautician" />
+    <item
+        android:id="@+id/action_occupation_caterer"
+        android:title="@string/occupation_caterer" />
+    <item
+        android:id="@+id/action_occupation_civil_servant"
+        android:title="@string/occupation_civil_servant" />
+
+    <item
+        android:id="@+id/action_occupation_cleric"
+        android:title="@string/occupation_cleric" />
+    <item
+        android:id="@+id/action_occupation_communication_technologist"
+        android:title="@string/occupation_communication_technologist" />
+    <item
+        android:id="@+id/action_occupation_educationist"
+        android:title="@string/occupation_educationist" />
+
+    <item
+        android:id="@+id/action_occupation_engineer"
+        android:title="@string/occupation_engineer" />
+    <item
+        android:id="@+id/action_occupation_farmer"
+        android:title="@string/occupation_farmer" />
+    <item
+        android:id="@+id/action_occupation_fashion_designer"
+        android:title="@string/occupation_fashion_designer" />
+
+    <item
+        android:id="@+id/action_occupation_financial_service_consultant"
+        android:title="@string/occupation_financial_service_consultant" />
+    <item
+        android:id="@+id/action_occupation_horologist"
+        android:title="@string/occupation_horologist" />
+    <item
+        android:id="@+id/action_occupation_horticulturist"
+        android:title="@string/occupation_horticulturist" />
+
+    <item
+        android:id="@+id/action_occupation_info_tech"
+        android:title="@string/occupation_info_tech" />
+    <item
+        android:id="@+id/action_occupation_journalist"
+        android:title="@string/occupation_journalist" />
+    <item
+        android:id="@+id/action_occupation_legal_practitioner"
+        android:title="@string/occupation_legal_practitioner" />
+
+    <item
+        android:id="@+id/action_occupation_management_consultant"
+        android:title="@string/occupation_management_consultant" />
+    <item
+        android:id="@+id/action_occupation_medical_practioner"
+        android:title="@string/occupation_medical_practioner" />
+    <item
+        android:id="@+id/action_occupation_merchant"
+        android:title="@string/occupation_merchant" />
+
+    <item
+        android:id="@+id/action_occupation_military"
+        android:title="@string/occupation_military" />
+    <item
+        android:id="@+id/action_occupation_pilot"
+        android:title="@string/occupation_pilot" />
+    <item
+        android:id="@+id/action_occupation_sailor"
+        android:title="@string/occupation_sailor" />
+
+    <item
+        android:id="@+id/action_occupation_scientist"
+        android:title="@string/occupation_scientist" />
+    <item
+        android:id="@+id/action_occupation_secretary"
+        android:title="@string/occupation_secretary" />
+    <item
+        android:id="@+id/action_occupation_student"
+        android:title="@string/occupation_student" />
+
+    <item
+        android:id="@+id/action_occupation_system_analyst"
+        android:title="@string/occupation_system_analyst" />
+    <item
+        android:id="@+id/action_occupation_transporter"
+        android:title="@string/occupation_transporter" />
+    <item
+        android:id="@+id/action_occupation_import"
+        android:title="@string/occupation_import" />
+
+    <item
+        android:id="@+id/action_occupation_surveyor"
+        android:title="@string/occupation_surveyor" />
+
+    <item
+        android:id="@+id/action_occupation_artist"
+        android:title="@string/occupation_artist" />
+    <item
+        android:id="@+id/action_occupation_musician"
+        android:title="@string/occupation_musician" />
+    <item
+        android:id="@+id/action_occupation_teacher_lecturer"
+        android:title="@string/occupation_teacher_lecturer" />
+
+    <item
+        android:id="@+id/action_occupation_others"
+        android:title="@string/occupation_others" />
+    <item
+        android:id="@+id/action_occupation_advertiser"
+        android:title="@string/occupation_advertiser" />
+    <item
+        android:id="@+id/action_occupation_hotel"
+        android:title="@string/occupation_hotel" />
+
+    <item
+        android:id="@+id/action_occupation_insurance"
+        android:title="@string/occupation_insurance" />
+
+    <item
+        android:id="@+id/action_occupation_photographer"
+        android:title="@string/occupation_photographer" />
+    <item
+        android:id="@+id/action_occupation_phamacist"
+        android:title="@string/occupation_phamacist" />
+    <item
+        android:id="@+id/action_occupation_public_office"
+        android:title="@string/occupation_public_office" />
+
+</menu>

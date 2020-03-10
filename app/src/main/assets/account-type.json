@@ -1,0 +1,12 @@
+[
+  {
+    "id":1,
+    "typeCode":"SA",
+    "name":"SAVING ACCOUNT"
+  },
+  {
+    "id":2,
+    "typeCode":"CA",
+    "name":"CURRENT ACCOUNT"
+  }
+]

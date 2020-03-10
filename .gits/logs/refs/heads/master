@@ -1,0 +1,32 @@
+0000000000000000000000000000000000000000 c98443f2180d6e6b12ffe6a744da0cc777415dd9 ShabaCyber <michael.shaba@cyberspace.net.ng> 1553525795 +0100	clone: from https://cybsoft.visualstudio.com/zxplore/_git/zxplore
+c98443f2180d6e6b12ffe6a744da0cc777415dd9 24e1b83853bb044d2061bc356b72b4a28a3da20a ShabaCyber <michael.shaba@cyberspace.net.ng> 1554116423 +0100	commit: Implement Login and Pull all Items from the server
+24e1b83853bb044d2061bc356b72b4a28a3da20a ddfdf1ce2690c9a475ec18dd954541dcaf5f7250 ShabaCyber <michael.shaba@cyberspace.net.ng> 1556017479 +0100	commit: Implement
+ddfdf1ce2690c9a475ec18dd954541dcaf5f7250 f95cba49f9b30c3deac09e2c6e829aad93ed670c ShabaCyber <michael.shaba@cyberspace.net.ng> 1556204564 +0100	commit: Input Validation
+f95cba49f9b30c3deac09e2c6e829aad93ed670c 5336804b2f7eea5fffeaa8b5f1140413379aca2b ShabaCyber <michael.shaba@cyberspace.net.ng> 1556388109 +0100	commit: Input Validation
+5336804b2f7eea5fffeaa8b5f1140413379aca2b bfc57e8f614e0bae7d675ece4588adecbded9dc5 ShabaCyber <michael.shaba@cyberspace.net.ng> 1556533889 +0100	commit: Input Validation
+bfc57e8f614e0bae7d675ece4588adecbded9dc5 468ae9b8a33adc6d52ff904a0e11b0f99f6ece7c ShabaCyber <michael.shaba@cyberspace.net.ng> 1556567668 +0100	commit: Attachment and input validation
+468ae9b8a33adc6d52ff904a0e11b0f99f6ece7c aaf3f74f71570f7ae34e84c6701a3d557347b806 ShabaCyber <michael.shaba@cyberspace.net.ng> 1556808581 +0100	commit: Updated Viemodel
+aaf3f74f71570f7ae34e84c6701a3d557347b806 df3331d002a3aacf6897d4d2b9d266422cb03120 ShabaCyber <michael.shaba@cyberspace.net.ng> 1556811079 +0100	commit: Update
+df3331d002a3aacf6897d4d2b9d266422cb03120 b454ab797d189d30615cdbbaa82a4b394dc862b3 ShabaCyber <michael.shaba@cyberspace.net.ng> 1556812773 +0100	commit: UPdate Login Fragment
+b454ab797d189d30615cdbbaa82a4b394dc862b3 e85cd57ebbc95d75dab4ef86e77d8aaf147ba3ad ShabaCyber <michael.shaba@cyberspace.net.ng> 1556816472 +0100	commit: Login Fixed
+e85cd57ebbc95d75dab4ef86e77d8aaf147ba3ad 79a3e70c18c63f674d7eec8b707c843bddc5fa82 ShabaCyber <michael.shaba@cyberspace.net.ng> 1556819579 +0100	commit: Login Fixed
+79a3e70c18c63f674d7eec8b707c843bddc5fa82 3e5712affce8f39a34689de6315d7507934f5f7a ShabaCyber <michael.shaba@cyberspace.net.ng> 1556821068 +0100	pull --progress --no-stat -v --progress origin master: Fast-forward
+3e5712affce8f39a34689de6315d7507934f5f7a b4dbc4baf8c7ce865e688dc9d52900394d0e1f1f ShabaCyber <michael.shaba@cyberspace.net.ng> 1556823910 +0100	commit: Login Fixed
+b4dbc4baf8c7ce865e688dc9d52900394d0e1f1f a0bfffd756273adc127b1bf8a9aa40c879c930c3 ShabaCyber <michael.shaba@cyberspace.net.ng> 1556827292 +0100	commit: Login Fixed
+a0bfffd756273adc127b1bf8a9aa40c879c930c3 b9f01aa925926cbf2b3cde9f5e21704faf0903be ShabaCyber <michael.shaba@cyberspace.net.ng> 1556830072 +0100	pull --progress --no-stat -v --progress origin master: Fast-forward
+b9f01aa925926cbf2b3cde9f5e21704faf0903be be7158e21f864c724301bdaea98e47bd9230d7a2 ShabaCyber <michael.shaba@cyberspace.net.ng> 1556834387 +0100	commit: Login Fixed
+be7158e21f864c724301bdaea98e47bd9230d7a2 11e43e0a02ff421312c55f9402fa8ff7cfd0a9f1 ShabaCyber <michael.shaba@cyberspace.net.ng> 1556835153 +0100	commit: MainFragment Encryption
+11e43e0a02ff421312c55f9402fa8ff7cfd0a9f1 5f24df56614b7f164696545f2fb785eaa2b076b9 ShabaCyber <michael.shaba@cyberspace.net.ng> 1556837158 +0100	commit: DONE
+5f24df56614b7f164696545f2fb785eaa2b076b9 584a1301144b85910576262b04b12b6d8580c6ae ShabaCyber <michael.shaba@cyberspace.net.ng> 1556838285 +0100	commit: DONE
+584a1301144b85910576262b04b12b6d8580c6ae e79ecf34e48634dae4838c41efddc8bb65fdbc84 ShabaCyber <michael.shaba@cyberspace.net.ng> 1556842784 +0100	commit: MAJOR EDIT
+e79ecf34e48634dae4838c41efddc8bb65fdbc84 213f3714978cf7442d173ebff2c5e20c4060eb4a ShabaCyber <michael.shaba@cyberspace.net.ng> 1556877751 +0100	commit: MAJOR EDIT
+213f3714978cf7442d173ebff2c5e20c4060eb4a f1cb56029fc4cd4f8e2df54a9f9842c0fe49eb98 ShabaCyber <michael.shaba@cyberspace.net.ng> 1556879037 +0100	commit: BUg FIx
+f1cb56029fc4cd4f8e2df54a9f9842c0fe49eb98 a3a79645f6be13ed67c5744656e976c2c75af0ed ShabaCyber <michael.shaba@cyberspace.net.ng> 1556884367 +0100	commit: BUg FIx
+a3a79645f6be13ed67c5744656e976c2c75af0ed ebb6dbffeaa555da9ac02c8e10e3e2746dfb38d5 ShabaCyber <michael.shaba@cyberspace.net.ng> 1557149738 +0100	commit: Commit
+ebb6dbffeaa555da9ac02c8e10e3e2746dfb38d5 cc13b6c9dcacbc14106c58306432207877f798bb ShabaCyber <michael.shaba@cyberspace.net.ng> 1557151276 +0100	commit: Commit
+cc13b6c9dcacbc14106c58306432207877f798bb e0f8e88d28ed1007b74bb26f32707027a9a832a4 ShabaCyber <michael.shaba@cyberspace.net.ng> 1557151985 +0100	commit (merge): Merge remote-tracking branch 'origin/master'
+e0f8e88d28ed1007b74bb26f32707027a9a832a4 575492b4ee5f68e1551094abbc6695a54446b7f9 ShabaCyber <michael.shaba@cyberspace.net.ng> 1557152730 +0100	commit: Commit
+575492b4ee5f68e1551094abbc6695a54446b7f9 90ac569c716f9131fdcc03ce73af6396777b8304 ShabaCyber <michael.shaba@cyberspace.net.ng> 1557165871 +0100	commit: Commit
+90ac569c716f9131fdcc03ce73af6396777b8304 a03029cbe946b3948eb1b108fd5374b54c6a5236 ShabaCyber <michael.shaba@cyberspace.net.ng> 1557166460 +0100	commit: Commit
+a03029cbe946b3948eb1b108fd5374b54c6a5236 c0999f30a396f36698f389f46369be029b34a73c ShabaCyber <michael.shaba@cyberspace.net.ng> 1557169871 +0100	commit: Commit
+c0999f30a396f36698f389f46369be029b34a73c 9a27aeaa36c194465bd7925b5f899b8fa3403eef Shaba Okare Michael <shabaokare@gmail.com> 1557733283 +0100	pull --progress --no-stat -v --progress origin master: Fast-forward

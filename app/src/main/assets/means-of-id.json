@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "name":"DRIVER'S LICENSE"
+  },
+  {
+    "id":2,
+    "name":"INT'L PASSPORT"
+  },
+  {
+    "id":3,
+    "name":"NATIONAL ID"
+  },
+  {
+    "id":4,
+    "name":"OTHERS"
+  },
+  {
+    "id":5,
+    "name":"VOTER'S ID CARD"
+  },
+  {
+    "id":6,
+    "name":"STUDENT ID"
+  }
+]

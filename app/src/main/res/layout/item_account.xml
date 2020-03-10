@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/account_card_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="2dp"
+    android:background="#fff"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/numberDateTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="8dp"
+        android:layout_toStartOf="@id/accountStatusImageView"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle2"
+        android:textColor="#80000000"
+        tools:text="+2348147285206 -  Jan 12, 2019" />
+
+    <ImageView
+        android:id="@+id/accountStatusImageView"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="8dp"
+        android:src="@drawable/ic_triangle" />
+
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/numberDateTextView"
+        android:layout_alignStart="@id/numberDateTextView"
+        android:layout_toStartOf="@id/accountStatusImageView"
+        android:layout_marginEnd="16dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="12dp"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle1"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        tools:text="David Eti" />
+
+
+    <ImageView
+        android:id="@+id/attachementImageView"
+        android:layout_width="33dp"
+        android:layout_height="33dp"
+        android:layout_below="@id/nameTextView"
+        android:layout_alignStart="@id/nameTextView"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/ic_attach_icon" />
+
+
+    <TextView
+        android:id="@+id/attachementLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nameTextView"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_toStartOf="@id/accountStatusImageView"
+        android:layout_toEndOf="@id/attachementImageView"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle2"
+        android:textColor="#80000000"
+        tools:text="Files Attached to profile" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/attachementLabel"
+        android:layout_alignStart="@id/attachementImageView"
+        android:orientation="horizontal">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/relLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:animateLayoutChanges="true">
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/verifyAccountChip"
+                style="@style/Widget.MaterialComponents.Chip.Action"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/verify"
+                android:visibility="visible"
+                app:chipEndPadding="4dp"
+                app:chipIcon="@drawable/ic_reload"
+                app:chipIconSize="18dp"
+                app:chipStartPadding="8dp" />
+
+            <ProgressBar
+                android:id="@+id/progress_bar"
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:layout_centerInParent="true"
+                android:visibility="gone" />
+
+        </RelativeLayout>
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/editAccountChip"
+            style="@style/Widget.MaterialComponents.Chip.Action"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/edit_account"
+            app:chipEndPadding="4dp"
+            app:chipIcon="@drawable/ic_settings"
+            app:chipIconSize="18dp"
+            app:chipStartPadding="8dp" />
+    </LinearLayout>
+
+
+</RelativeLayout>

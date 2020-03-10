@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_title_miss"
+        android:title="@string/title_miss" />
+
+    <item
+        android:id="@+id/action_title_dr"
+        android:title="@string/title_dr" />
+    <item
+        android:id="@+id/action_title_prof"
+        android:title="@string/title_prof" />
+
+    <item
+        android:id="@+id/action_title_rev"
+        android:title="@string/title_rev" />
+    <item
+        android:id="@+id/action_title_chief"
+        android:title="@string/title_chief" />
+    <item
+        android:id="@+id/action_title_mr"
+        android:title="@string/title_mr" />
+
+    <item
+        android:id="@+id/action_title_barrister"
+        android:title="@string/title_barrister" />
+    <item
+        android:id="@+id/action_title_pastor"
+        android:title="@string/title_pastor" />
+    <item
+        android:id="@+id/action_title_otunba"
+        android:title="@string/title_otunba" />
+
+    <item
+        android:id="@+id/action_title_mrs"
+        android:title="@string/title_mrs" />
+    <item
+        android:id="@+id/action_title_engr"
+        android:title="@string/title_engr" />
+    <item
+        android:id="@+id/action_title_alhaji"
+        android:title="@string/title_alhaji" />
+
+    <item
+        android:id="@+id/action_title_alhaja"
+        android:title="@string/title_alhaja" />
+    <item
+        android:id="@+id/action_title_mr_mrs"
+        android:title="@string/title_mr_mrs" />
+    <item
+        android:id="@+id/action_title_dr_mrs"
+        android:title="@string/title_dr_mrs" />
+
+    <item
+        android:id="@+id/action_title_hon_just"
+        android:title="@string/title_hon_just" />
+
+</menu>

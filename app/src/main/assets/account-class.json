@@ -1,0 +1,24 @@
+[
+  {
+    "ClassCode":"357",
+    "Description":"ASPIRE SAVINGS ACCOUNT",
+    "ClassType":"SA "
+  },
+  {
+    "ClassCode":"164",
+    "Description":"DIASPORA ACCOUNT-CURRENT",
+    "ClassType":"CA "
+  },
+  {"ClassCode":"163","Description":"DIASPORA ACCOUNT-SAVINGS","ClassType":"SA "},
+  {"ClassCode":"389","Description":"DIASPORA ASPIRE SAVINGS ACCOUNT","ClassType":"SA "},
+  {"ClassCode":"344","Description":"EAZYSAVE CLASSIC SAVING ACCOUNT",
+  "ClassType":"SA "},
+  {"ClassCode":"346","Description":"EAZYSAVE PLUS ACCOUNT","ClassType":"SA "},
+  {"ClassCode":"345","Description":"EAZYSAVE PREMIUM SAVING ACCOUNT","ClassType":"SA "},
+  {"ClassCode":"156","Description":"GOLD CURRENT ACCOUNT","ClassType":"CA "},
+  {"ClassCode":"100","Description":"INDIVIDUAL CURRENT  A/C","ClassType":"CA "},
+  {"ClassCode":"157","Description":"PLATINUM CURRENT ACCOUNT","ClassType":"CA "},
+  {"ClassCode":"217","Description":"SALARY  CURRENT ACCT","ClassType":"CA "},
+  {"ClassCode":"216","Description":"SALARY SAVINGS ACCT","ClassType":"SA "},
+  {"ClassCode":"200","Description":"SAVINGS ACCT","ClassType":"SA "}
+]

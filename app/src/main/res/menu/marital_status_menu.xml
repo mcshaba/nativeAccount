@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_single"
+        android:title="@string/status_single" />
+    <item
+            android:id="@+id/action_married"
+            android:title="@string/status_married" />
+    <item
+            android:id="@+id/action_widow"
+            android:title="@string/status_widow" />
+    <item
+            android:id="@+id/action_separated"
+            android:title="@string/status_separated" />
+    <item
+            android:id="@+id/action_divorced"
+            android:title="@string/status_divorced" />
+
+
+</menu>

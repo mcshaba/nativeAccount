@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/accountInformationButton"
+        style="@style/Widget.Zexplore.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/account_information" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/personalInformationMenuButton"
+        style="@style/Widget.Zexplore.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/personal_information" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/contactDetailsMenuButton"
+        style="@style/Widget.Zexplore.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact_details" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/identificationMenuButton"
+        style="@style/Widget.Zexplore.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/means_of_identification" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/idUploadMenuButton"
+        style="@style/Widget.Zexplore.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/id_card_upload" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/passportUploadMenuButton"
+        style="@style/Widget.Zexplore.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/passport_upload" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/utilityUploadMenuButton"
+        style="@style/Widget.Zexplore.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/utility_bill_upload" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/signatoryMenuButton"
+        style="@style/Widget.Zexplore.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/signatory" />
+
+</merge>

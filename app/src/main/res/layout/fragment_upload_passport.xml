@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp"
+    android:orientation="vertical"
+    android:paddingTop="40dp"
+    tools:context=".fragment.form.UploadPassportFragment">
+
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/upload_passport_photo"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6" />
+
+
+    <ImageView
+        android:id="@+id/emptyImageView"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_below="@id/titleTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        app:srcCompat="@drawable/no_image" />
+
+
+    <TextView
+        android:id="@+id/emptyTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/emptyImageView"
+        android:gravity="center"
+        android:visibility="gone"
+        android:lines="1"
+        android:text="@string/you_haven_t_uploaded_a_passport_yet"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6" />
+
+    <TextView
+        android:id="@+id/emptySubTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/emptyTextView"
+        android:layout_marginStart="20dp"
+
+        android:layout_marginEnd="20dp"
+        android:gravity="center"
+        android:lines="2"
+        android:text="@string/no_passport_subtext"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle2"
+        android:textColor="#60000000" />
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/cameraImageButton"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_below="@id/emptySubTextView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_camera" />
+
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/attachementImageButton"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_below="@id/emptySubTextView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_gallery" />
+
+
+</RelativeLayout>

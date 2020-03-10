@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_state_abia"
+        android:title="@string/state_abia" />
+
+    <item
+        android:id="@+id/action_state_adamawa"
+        android:title="@string/state_adamawa" />
+    <item
+        android:id="@+id/action_state_akwa_ibom"
+        android:title="@string/state_akwa_ibom" />
+
+    <item
+        android:id="@+id/action_state_anambra"
+        android:title="@string/state_anambra" />
+    <item
+        android:id="@+id/action_state_bauchi"
+        android:title="@string/state_bauchi" />
+
+    <item
+        android:id="@+id/action_state_benue"
+        android:title="@string/state_benue" />
+    <item
+        android:id="@+id/action_state_borno"
+        android:title="@string/state_borno" />
+
+    <item
+        android:id="@+id/action_state_bayelsa"
+        android:title="@string/state_bayelsa" />
+    <item
+        android:id="@+id/action_state_cross_river"
+        android:title="@string/state_cross_river" />
+
+    <item
+        android:id="@+id/action_state_delta"
+        android:title="@string/state_delta" />
+    <item
+        android:id="@+id/action_state_ebonyi"
+        android:title="@string/state_ebonyi" />
+
+    <item
+        android:id="@+id/action_state_edo"
+        android:title="@string/state_edo" />
+    <item
+        android:id="@+id/action_state_ekiti"
+        android:title="@string/state_ekiti" />
+
+    <item
+        android:id="@+id/action_state_enugu"
+        android:title="@string/state_enugu" />
+    <item
+        android:id="@+id/action_state_fct"
+        android:title="@string/state_fct" />
+
+    <item
+        android:id="@+id/action_state_gombe"
+        android:title="@string/state_gombe" />
+    <item
+        android:id="@+id/action_state_imo"
+        android:title="@string/state_imo" />
+
+    <item
+        android:id="@+id/action_state_jigawa"
+        android:title="@string/state_jigawa" />
+    <item
+        android:id="@+id/action_state_kebbi"
+        android:title="@string/state_kebbi" />
+
+    <item
+        android:id="@+id/action_state_kaduna"
+        android:title="@string/state_kaduna" />
+    <item
+        android:id="@+id/action_state_kogi"
+        android:title="@string/state_kogi" />
+
+    <item
+        android:id="@+id/action_state_kano"
+        android:title="@string/state_kano" />
+    <item
+        android:id="@+id/action_state_katsina"
+        android:title="@string/state_katsina" />
+
+    <item
+        android:id="@+id/action_state_kwara"
+        android:title="@string/state_kwara" />
+    <item
+        android:id="@+id/action_state_lagos"
+        android:title="@string/state_lagos" />
+
+    <item
+        android:id="@+id/action_state_niger"
+        android:title="@string/state_niger" />
+    <item
+        android:id="@+id/action_state_nassarawa"
+        android:title="@string/state_nassarawa" />
+
+    <item
+        android:id="@+id/action_state_ogun"
+        android:title="@string/state_ogun" />
+    <item
+        android:id="@+id/action_state_ondo"
+        android:title="@string/state_ondo" />
+
+    <item
+        android:id="@+id/action_state_osun"
+        android:title="@string/state_osun" />
+    <item
+        android:id="@+id/action_state_oyo"
+        android:title="@string/state_oyo" />
+
+    <item
+        android:id="@+id/action_state_plateau"
+        android:title="@string/state_plateau" />
+    <item
+        android:id="@+id/action_state_rivers"
+        android:title="@string/state_rivers" />
+
+    <item
+        android:id="@+id/action_state_sokoto"
+        android:title="@string/state_sokoto" />
+    <item
+        android:id="@+id/action_state_taraba"
+        android:title="@string/state_taraba" />
+
+    <item
+        android:id="@+id/action_state_yobe"
+        android:title="@string/state_yobe" />
+    <item
+        android:id="@+id/action_state_zamfara"
+        android:title="@string/state_zamfara" />
+
+
+</menu>
